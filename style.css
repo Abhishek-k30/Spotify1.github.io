@@ -114,7 +114,18 @@ nav ul li{
     opacity: 0;
     transition: opacity 0.4s ease-in;
 }
-
+.mydata{
+    background-color : black;
+    
+}
+.mydata p{
+    color: white;
+    text-decoration: none;
+}
+.mydata p a{
+    text-decoration: none;
+    color: white;
+}
 @media only screen and (max-width: 1100px) {
     body::before {
         
